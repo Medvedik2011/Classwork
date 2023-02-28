@@ -1,1 +1,6 @@
 line from local
+<<<<<<< HEAD
+new line from local
+=======
+new line from remote
+>>>>>>> 092a338be60f55f4ccf6711237f1d1b24382bf07
